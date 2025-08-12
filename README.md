@@ -22,5 +22,3 @@ A two-player **Tic-Tac-Toe** game built in Python using the **Tkinter** library 
 - OS module (built-in Python module)
 
 ---
-
-## 📂 Project Structure
